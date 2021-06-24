@@ -19,4 +19,3 @@ Skills: :rocket: JavaScript (es6) / React JS / HTML / CSS / Node.js / MongoDB / 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AKatryukhin)
 
-![Profile views](https://gpvc.arturio.dev/AKatryukhin)
