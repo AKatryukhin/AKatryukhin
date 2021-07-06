@@ -4,7 +4,7 @@
 
 В настоящее время прохожу обучение в Яндекс.Практикум на курсе «Веб-разработчик». Обучение подходит к концу, и дело движется к дипломному проекту.
 
-Skills: :rocket: JavaScript (es6) / React JS / HTML / CSS / Node.js / MongoDB / REST API / Git / Figma / Webpack /
+Skills: :rocket: JavaScript (es6) / React JS / HTML / CSS / Node.js / MongoDB / REST API / Git / Figma / Webpack / Jest
 
 - 🔭 Сейчас работаю над проектом https://github.com/AKatryukhin/express-mesto
 - 🌱 Прохожу обучение в Яндекс.Практикум
