@@ -6,7 +6,7 @@
 
 Skills: :rocket: JavaScript (es6) / React JS / HTML / CSS / Node.js / MongoDB / REST API / Git / Figma / Webpack / Jest / pm2 / Nginx
 
-- 🔭 Сейчас работаю над проектом https://akatryukhin.github.io/Anime-get-redux/
+- 🔭 Сейчас работаю над проектом https://github.com/AKatryukhin/Stellar-Burgers
 - 🌱 Прошёл обучение в Яндекс.Практикум
 - 👯 Хочу работать и развиваться в команде профессионалов
 - 📫 Вы можете связаться со мной: A.Katryukhin@yandex.ru
