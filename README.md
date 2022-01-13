@@ -4,7 +4,7 @@
 
 Прошёл обучение в Яндекс.Практикуме. Получен диплом о профессиональной переподготовке по профессии "Веб-разработчик".
 
-Skills: :rocket: JavaScript (es6) / React JS / HTML / CSS / Node.js / MongoDB / REST API / Git / Figma / Webpack / Jest / pm2 / Nginx
+Skills: :rocket: JavaScript (es6+) / React JS / Redux / HTML / CSS / Node.js / MongoDB / REST API / Git / Figma / Webpack / Jest / pm2 / Nginx
 
 - 🔭 Сейчас работаю над проектом https://github.com/AKatryukhin/Stellar-Burgers
 - 🌱 Прошёл обучение в Яндекс.Практикум
