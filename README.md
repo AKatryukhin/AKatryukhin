@@ -6,10 +6,9 @@
 
 Skills: :rocket: JavaScript (es6+) / Typescript / React JS / Redux / Redux-saga / Jest / HTML / CSS / Node.js / MongoDB / REST API / Git / Figma / Webpack / pm2 / Nginx
 
-- 🔭 Сейчас работаю над проектом https://github.com/AKatryukhin/Stellar-Burgers
-- 🌱 Прошёл обучение в Яндекс.Практикум
 - 👯 Хочу работать и развиваться в команде профессионалов
 - 📫 Вы можете связаться со мной: A.Katryukhin@yandex.ru
+                                   Telegram: @Alex_Katr
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AKatryukhin)
 
