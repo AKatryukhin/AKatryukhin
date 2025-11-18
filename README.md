@@ -8,9 +8,6 @@
 
 В свободное время играю в шахматы — это помогает поддерживать стратегическое мышление и умение просчитывать ходы наперёд.
 
-Telegram: @Alex_Katr
-Почта: a.katryukhin@yandex.ru
-
 Skills: :rocket: JavaScript (es6+) / Typescript / React JS / Redux / Redux-toolkit / RTK Query/ Redux-saga / Webpack 5 / Node.js / Express / NestJS / MongoDB / PostgreSQL / REST API / Jest / Cypress / HTML / CSS / Git / Jira / Confluence / Bitbucket / Figma / pm2 / Nginx
 
 - 👯 Хочу работать и развиваться в команде профессионалов
