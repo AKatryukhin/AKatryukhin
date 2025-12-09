@@ -16,7 +16,3 @@ Skills: :rocket: JavaScript (es6+) / Typescript / React JS / Redux / Redux-toolk
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AKatryukhin)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AKatryukhin&show_icons=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AKatryukhin)
-
